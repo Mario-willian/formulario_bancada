@@ -19,7 +19,7 @@
     echo $observacao;
 
     //FAZER O TEXTO DA INTERACAO DO CHAMADO
-    //$texto = '';
+    //$texto = "";
 
     //Inserir Interação no chamado
     //$inserir_interacao = "INSERT INTO *INTERAÇÃO* (interacao) values ($texto))";

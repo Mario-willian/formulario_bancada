@@ -1,8 +1,8 @@
 <?php
-$servidor = "localhost";
+$servidor = "192.168.100.15";
 $usuario = "root";
-$senha = "";
-$dbname = "glpi";
+$senha = "u7eJtjnUJs";
+$dbname = "GLPI_4INFRA";
 
 $conn = mysqli_connect($servidor , $usuario, $senha, $dbname);
 
