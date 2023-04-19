@@ -1,6 +1,6 @@
 <?php
 //Evitar erros no site
-include_once 'erro.php';
+//include_once 'erro.php';
 //Receber as informações do banco de dados
 include_once 'pesquisa_ticket.php';
 ?>

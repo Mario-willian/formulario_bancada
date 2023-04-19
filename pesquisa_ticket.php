@@ -1,6 +1,6 @@
 <?php
     //Evitar erros no site
-    include_once 'erro.php';
+    //include_once 'erro.php';
     //Recebendo o Ticket da pagina anterior
     $numero_chamado = $_POST['numero_chamado'];
     //Conexão ao Banco
